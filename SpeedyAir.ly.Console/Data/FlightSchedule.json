@@ -1,0 +1,30 @@
+{
+    "Day1": {
+        "Flight1": {
+            "Departure": "YUL",
+            "Arrival": "YYZ"
+        },
+        "Flight2": {
+            "Departure": "YUL",
+            "Arrival": "YYC"
+        },
+        "Flight3": {
+            "Departure": "YUL",
+            "Arrival": "YVR"
+        }
+    },
+    "Day2": {
+        "Flight4": {
+            "Departure": "YUL",
+            "Arrival": "YYZ"
+        },
+        "Flight5": {
+            "Departure": "YUL",
+            "Arrival": "YYC"
+        },
+        "Flight6": {
+            "Departure": "YUL",
+            "Arrival": "YVR"
+        }
+    }
+}
