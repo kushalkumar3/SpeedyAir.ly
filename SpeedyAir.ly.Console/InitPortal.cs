@@ -14,7 +14,7 @@ public class InitPortal
 {  
     public static async Task LoadOrderSchedulePortalAsync(IFlightScheduleService _flightService,IOrderService _orderService, IScheduleOrderService _scheduleOrderService)
     {
-       
+        //Test Commit
         int input = Console.Read();
         input = (int)char.GetNumericValue(Convert.ToChar(input));
         if (input == 1)
